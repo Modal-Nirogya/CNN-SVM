@@ -1,2 +1,3 @@
 # CNN-SVM
-cnn for the feature extraction and svm for the classification.
+## I have applied CNN for the feature extraction and svm for the classification or the identication of the covid-patients.
+
