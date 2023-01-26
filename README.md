@@ -31,10 +31,15 @@
 
 
 ##### For the references I have used research paper and kaggle.
-references:
+###### References:
+
 https://github.com/AFAgarap/cnn-svm
-Datasets:
+
+###### Datasets:
+
 https://www.kaggle.com/datasets/aysendegerli/qatacov19-dataset
-Research paper: 
+
+###### Research paper: 
+
 https://www.sciencedirect.com/science/article/abs/pii/S0031320311004006
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8545189/
