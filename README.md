@@ -61,3 +61,9 @@
   <li> https://github.com/AFAgarap/cnn-svm </li>
 </ul>
 
+<h4> About: Major Project </h4>
+<ul>
+ <li> Author: Akash Kumar </li>
+ <li> NITD </li>
+ <li> CSE: 2023 </li>
+</ul>
