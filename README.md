@@ -30,16 +30,15 @@
 <img width="908" alt="Screenshot 2023-01-26 at 12 18 26 AM" src="https://user-images.githubusercontent.com/70103770/214655530-24f8f8fb-c625-487c-9204-48d5056fd646.png">
 
 
-##### For the references I have used research paper and kaggle.
-###### References:
-
-https://github.com/AFAgarap/cnn-svm
-
 ###### Datasets:
+<ul>
+  <li> https://www.kaggle.com/datasets/aysendegerli/qatacov19-dataset </li>
+</ul>
 
-https://www.kaggle.com/datasets/aysendegerli/qatacov19-dataset
+###### Research paper and github: 
+<ul>
+  <li> https://www.sciencedirect.com/science/article/abs/pii/S0031320311004006 </li>
+  <li> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8545189/ </li>
+  <li> https://github.com/AFAgarap/cnn-svm </li>
+</ul>
 
-###### Research paper: 
-
-<h6>https://www.sciencedirect.com/science/article/abs/pii/S0031320311004006 </h6>
-<h6> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8545189/ </h6>
