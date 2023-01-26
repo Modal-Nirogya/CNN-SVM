@@ -15,9 +15,11 @@
 <img width="326" alt="Screenshot 2023-01-26 at 12 21 22 AM" src="https://user-images.githubusercontent.com/70103770/214657616-e899408f-411b-49d4-a327-f8b5596495fa.png">
 
 ## Result 
-<span> <img width="412" alt="Screenshot 2023-01-26 at 12 20 44 AM" src="https://user-images.githubusercontent.com/70103770/214657831-7d8fc350-9a0a-4c0e-9c59-93eb97f442d5.png">
+<div style="display:flex;">
+<img width="412" alt="Screenshot 2023-01-26 at 12 20 44 AM" src="https://user-images.githubusercontent.com/70103770/214657831-7d8fc350-9a0a-4c0e-9c59-93eb97f442d5.png">
 
-<img width="398" alt="Screenshot 2023-01-26 at 12 20 53 AM" src="https://user-images.githubusercontent.com/70103770/214657868-fd3abc0e-2031-4789-8509-6010028f800b.png"> </span>
+<img width="398" alt="Screenshot 2023-01-26 at 12 20 53 AM" src="https://user-images.githubusercontent.com/70103770/214657868-fd3abc0e-2031-4789-8509-6010028f800b.png"> 
+ </div>
 
 ### My Modal Architecture
 <img width="823" alt="Screenshot 2023-01-26 at 12 22 30 AM" src="https://user-images.githubusercontent.com/70103770/214657137-e33ed1cd-7601-44d9-b03f-a67e8194de64.png">
